@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Almuqit
+- 👋 Hi, I’m @Abdul-Moqeet
 - 👀 I’m interested in programming and cloud computing.
-- 🌱 I’m currently learning GCP, Python and Javascript
+- 🌱 I’m currently learning Google IT Automation with Python
 - 📫 How to reach me, you can contact me on almoqeet1@gmail.com...
 
 <!---
